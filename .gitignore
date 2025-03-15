@@ -7,4 +7,5 @@ results/
 
 # Ignore JSON files
 
+.DS_Store
 
