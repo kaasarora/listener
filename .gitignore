@@ -1,0 +1,10 @@
+summarizer
+# Ignore CSV files
+*.csv
+
+# Ignore results folder
+results/
+
+# Ignore JSON files
+
+
